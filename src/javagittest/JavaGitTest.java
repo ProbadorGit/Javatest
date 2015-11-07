@@ -8,7 +8,7 @@ package javagittest;
 
 /**
  *
- * @author Owner
+ * @author Iiii
  */
 public class JavaGitTest {
 
